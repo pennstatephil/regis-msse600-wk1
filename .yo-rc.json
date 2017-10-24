@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "MSSE 600 Week 1 - Introduction",
+    "packageVersion": "0.0.1",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
